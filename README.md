@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello! I'm Nisha 🌸
+It's nice to meet you!
 
-<!--
-**nishaverma24-bot/nishaverma24-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 👩‍🔬 Scientist turned sustainability innovator  
+- 🌱 MBA in Building Sustainability at [TU Berlin](https://www.tu.berlin)  
+- 📊 Skilled in Python, SQL, Power BI for data analytics  
+- ⚡ Exploring ESG strategy, clean tech, and energy systems  
+- 💌 Connect with me on [LinkedIn](https://www.linkedin.com/in/nisha-verma-237a507)
 
-Here are some ideas to get you started:
+## 🧰 Programming Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
