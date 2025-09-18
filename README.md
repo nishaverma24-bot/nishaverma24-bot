@@ -16,8 +16,6 @@ It's nice to meet you!
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
-
 ![Nisha's GitHub stats](https://github-readme-stats-red-five-nhz3n4ci4b.vercel.app/api?username=nisha-verma-237a507&show_icons=true&cache_seconds=21600)
 
 ![Top Langs](https://github-readme-stats-red-five-nhz3n4ci4b.vercel.app/api/top-langs/?username=nisha-verma-237a507&layout=compact&cache_seconds=21600)
